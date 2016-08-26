@@ -6,7 +6,7 @@ Udacity iOS Developers Nanodegree -- Pitch Prefect app
 [![Facebook](https://img.shields.io/badge/facebook-SpiritDevs-green.svg?style=flat)](https://www.facebook.com/SpiritDevs)
 [![Website](https://img.shields.io/badge/website-SpiritDevs-red.svg?style=flat)](http://www.spiritDevs.com/)
 
-## MemeMe Introduciton
+## Pitch Perfect Introduciton
 
 This app is SpiritDevs take on the [Udacity iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003) Pitch Perfect app which records the users voice and plays it back in a variety of different effects. It allows user to share there creations, save them for later and edit them if they need to be changed.
 
